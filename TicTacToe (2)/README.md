@@ -1,19 +1,22 @@
-# Stateful Click Counter
+# Tic Tac Toe
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+/// README:
+/// Tic Tac Toe Game
+///
+/// This is a simple Flutter application that allows two players to play
+/// Tic Tac Toe and keeps track of their scores. The game board is displayed
+/// using a 3x3 grid, and players take turns clicking on cells to make their moves.
+///
+/// Features:
+/// - Score tracking for Player X and Player O.
+/// - Visual indicators for winning combinations.
+/// - Reset button to start a new game.
+///
+/// Usage:
+/// - Tap on an empty cell to make a move.
+/// - The game will display the current player's turn and indicate the winner or a tie.
+/// - Press the "Reset Game" button to start a new game.
